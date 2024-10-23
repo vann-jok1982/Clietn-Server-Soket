@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Clietn-Server_Step-by-step" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Clietn-Server.iml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LICENSE" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/MonoThreadClientHandler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/MultiThreadServer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/README.md" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/TestASClient.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/TestAsServer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/TestRunnableClientTester.java" charset="windows-1251" />
+  </component>
+</project>
